@@ -1,0 +1,3051 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<events>
+  <event status="not_started" competition_id="10300815523" event_title="Speed Skating - 2 x 500m Men: Overall" id="p815523" final="">
+    <teams/>
+    <time>2014-02-10T13:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815524" event_title="Speed Skating - 1000m Men: Overall" id="p815524" final="">
+    <teams/>
+    <time>2014-02-12T14:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815525" event_title="Speed Skating - 1500m Men: Overall" id="p815525" final="">
+    <teams/>
+    <time>2014-02-15T13:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815526" event_title="Speed Skating - 5000m Men: Overall" id="p815526" final="">
+    <teams/>
+    <time>2014-02-08T11:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815527" event_title="Speed Skating - 10000m Men: Overall" id="p815527" final="">
+    <teams/>
+    <time>2014-02-18T13:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815528" event_title="Speed Skating - Team Pursuit 8 Laps Men: Overall" id="p815528" final="">
+    <teams>
+      <team>
+        <team_id>60151</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60152</team_id>
+        <team_name>France</team_name>
+      </team>
+      <team>
+        <team_id>60153</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>60154</team_id>
+        <team_name>Netherlands</team_name>
+      </team>
+      <team>
+        <team_id>60155</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>60156</team_id>
+        <team_name>Poland</team_name>
+      </team>
+      <team>
+        <team_id>60157</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>60158</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-21T13:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815529" event_title="Speed Skating - 2 x 500m Women: Overall" id="p815529" final="">
+    <teams/>
+    <time>2014-02-11T12:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815530" event_title="Speed Skating - 1000m Women: Overall" id="p815530" final="">
+    <teams/>
+    <time>2014-02-13T14:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815531" event_title="Speed Skating - 1500m Women: Overall" id="p815531" final="">
+    <teams/>
+    <time>2014-02-16T14:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815532" event_title="Speed Skating - 3000m Women: Overall" id="p815532" final="">
+    <teams/>
+    <time>2014-02-09T11:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815533" event_title="Speed Skating - 5000m Women: Overall" id="p815533" final="">
+    <teams/>
+    <time>2014-02-19T13:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="10300815534" event_title="Speed Skating - Team Pursuit 6 Laps Women: Overall" id="p815534" final="">
+    <teams>
+      <team>
+        <team_id>60159</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60160</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>60161</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>60162</team_id>
+        <team_name>Netherlands</team_name>
+      </team>
+      <team>
+        <team_id>60163</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>60164</team_id>
+        <team_name>Poland</team_name>
+      </team>
+      <team>
+        <team_id>60165</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>60166</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-21T14:23:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398324" final="">
+    <teams/>
+    <time>2014-02-19T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398325" final="">
+    <teams/>
+    <time>2014-02-19T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398326" final="">
+    <teams/>
+    <time>2014-02-19T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398327" final="">
+    <teams/>
+    <time>2014-02-19T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398328" final="">
+    <teams/>
+    <time>2014-02-21T12:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398329" final="">
+    <teams/>
+    <time>2014-02-21T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398330" final="">
+    <teams/>
+    <time>2014-02-18T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398331" final="">
+    <teams/>
+    <time>2014-02-18T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398332" final="">
+    <teams/>
+    <time>2014-02-18T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398333" final="">
+    <teams/>
+    <time>2014-02-18T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398334" final="">
+    <teams/>
+    <time>2014-02-22T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Unknown - Unknown" id="m398335" final="">
+    <teams/>
+    <time>2014-02-23T12:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Slovenia - United States" id="m398351" final="">
+    <teams>
+      <team>
+        <team_id>60029</team_id>
+        <team_name>Slovenia</team_name>
+      </team>
+      <team>
+        <team_id>60027</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Russia - Slovenia" id="m398358" final="">
+    <teams>
+      <team>
+        <team_id>60035</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>60029</team_id>
+        <team_name>Slovenia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Slovakia - United States" id="m398359" final="">
+    <teams>
+      <team>
+        <team_id>60032</team_id>
+        <team_name>Slovakia</team_name>
+      </team>
+      <team>
+        <team_id>60027</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Slovakia - Slovenia" id="m398360" final="">
+    <teams>
+      <team>
+        <team_id>60032</team_id>
+        <team_name>Slovakia</team_name>
+      </team>
+      <team>
+        <team_id>60029</team_id>
+        <team_name>Slovenia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: United States - Russia" id="m398361" final="">
+    <teams>
+      <team>
+        <team_id>60027</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>60035</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Russia - Slovakia" id="m398363" final="">
+    <teams>
+      <team>
+        <team_id>60035</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>60032</team_id>
+        <team_name>Slovakia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Finland - Austria" id="m398352" final="">
+    <teams>
+      <team>
+        <team_id>60030</team_id>
+        <team_name>Finland</team_name>
+      </team>
+      <team>
+        <team_id>60033</team_id>
+        <team_name>Austria</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Canada - Norway" id="m398353" final="">
+    <teams>
+      <team>
+        <team_id>60026</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60037</team_id>
+        <team_name>Norway</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Canada - Austria" id="m398354" final="">
+    <teams>
+      <team>
+        <team_id>60026</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60033</team_id>
+        <team_name>Austria</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Norway - Finland" id="m398355" final="">
+    <teams>
+      <team>
+        <team_id>60037</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>60030</team_id>
+        <team_name>Finland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Finland - Canada" id="m398357" final="">
+    <teams>
+      <team>
+        <team_id>60030</team_id>
+        <team_name>Finland</team_name>
+      </team>
+      <team>
+        <team_id>60026</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Austria - Norway" id="m398362" final="">
+    <teams>
+      <team>
+        <team_id>60033</team_id>
+        <team_name>Austria</team_name>
+      </team>
+      <team>
+        <team_id>60037</team_id>
+        <team_name>Norway</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Czech Republic - Sweden" id="m398346" final="">
+    <teams>
+      <team>
+        <team_id>60031</team_id>
+        <team_name>Czech Republic</team_name>
+      </team>
+      <team>
+        <team_id>60036</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Latvia - Switzerland" id="m398347" final="">
+    <teams>
+      <team>
+        <team_id>60028</team_id>
+        <team_name>Latvia</team_name>
+      </team>
+      <team>
+        <team_id>60034</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Czech Republic - Latvia" id="m398348" final="">
+    <teams>
+      <team>
+        <team_id>60031</team_id>
+        <team_name>Czech Republic</team_name>
+      </team>
+      <team>
+        <team_id>60028</team_id>
+        <team_name>Latvia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Sweden - Switzerland" id="m398349" final="">
+    <teams>
+      <team>
+        <team_id>60036</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>60034</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Switzerland - Czech Republic" id="m398350" final="">
+    <teams>
+      <team>
+        <team_id>60034</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>60031</team_id>
+        <team_name>Czech Republic</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068183" event_title="Ice Hockey Men: Sweden - Latvia" id="m398356" final="">
+    <teams>
+      <team>
+        <team_id>60036</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>60028</team_id>
+        <team_name>Latvia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398336" final="">
+    <teams/>
+    <time>2014-02-15T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398337" final="">
+    <teams/>
+    <time>2014-02-15T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398338" final="">
+    <teams/>
+    <time>2014-02-17T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398339" final="">
+    <teams/>
+    <time>2014-02-17T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398340" final="">
+    <teams/>
+    <time>2014-02-20T12:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398341" final="">
+    <teams/>
+    <time>2014-02-20T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398342" final="">
+    <teams/>
+    <time>2014-02-18T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398343" final="">
+    <teams/>
+    <time>2014-02-18T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398344" final="">
+    <teams/>
+    <time>2014-02-16T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Unknown - Unknown" id="m398345" final="">
+    <teams/>
+    <time>2014-02-16T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: United States - Finland" id="m398364" final="">
+    <teams>
+      <team>
+        <team_id>274</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>589</team_id>
+        <team_name>Finland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-08T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Canada - Switzerland" id="m398365" final="">
+    <teams>
+      <team>
+        <team_id>140</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>522</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-08T13:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: United States - Switzerland" id="m398366" final="">
+    <teams>
+      <team>
+        <team_id>60021</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>60023</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Finland - Canada" id="m398367" final="">
+    <teams>
+      <team>
+        <team_id>60025</team_id>
+        <team_name>Finland</team_name>
+      </team>
+      <team>
+        <team_id>60019</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Switzerland - Finland" id="m398368" final="">
+    <teams>
+      <team>
+        <team_id>60023</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>60025</team_id>
+        <team_name>Finland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Canada - United States" id="m398369" final="">
+    <teams>
+      <team>
+        <team_id>60019</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60021</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Sweden - Japan" id="m398370" final="">
+    <teams>
+      <team>
+        <team_id>808</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>440</team_id>
+        <team_name>Japan</team_name>
+      </team>
+    </teams>
+    <time>2014-02-09T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Russia - Germany" id="m398371" final="">
+    <teams>
+      <team>
+        <team_id>730</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>658</team_id>
+        <team_name>Germany</team_name>
+      </team>
+    </teams>
+    <time>2014-02-09T13:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Germany - Sweden" id="m398372" final="">
+    <teams>
+      <team>
+        <team_id>60020</team_id>
+        <team_name>Germany</team_name>
+      </team>
+      <team>
+        <team_id>60024</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Russia - Japan" id="m398373" final="">
+    <teams>
+      <team>
+        <team_id>60022</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>60018</team_id>
+        <team_name>Japan</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Japan - Germany" id="m398374" final="">
+    <teams>
+      <team>
+        <team_id>60018</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>60020</team_id>
+        <team_name>Germany</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11300068184" event_title="Ice Hockey Women: Sweden - Russia" id="m398375" final="">
+    <teams>
+      <team>
+        <team_id>60024</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>60022</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T17:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815728" event_title="Alpine Skiing - Downhill Men: Overall" id="p815728" final="">
+    <teams/>
+    <time>2014-02-09T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815733" event_title="Alpine Skiing - Super G Men: Overall" id="p815733" final="">
+    <teams/>
+    <time>2014-02-16T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815735" event_title="Alpine Skiing - Giant Slalom Men: Overall" id="p815735" final="">
+    <teams/>
+    <time>2014-02-19T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815737" event_title="Alpine Skiing - Slalom Men: Overall" id="p815737" final="">
+    <teams/>
+    <time>2014-02-22T12:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815731" event_title="Alpine Skiing - Super Combined Men: Overall" id="p815731" final="">
+    <teams/>
+    <time>2014-02-14T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815730" event_title="Alpine Skiing - Downhill Women: Overall" id="p815730" final="">
+    <teams/>
+    <time>2014-02-12T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815732" event_title="Alpine Skiing - Super G Women: Overall" id="p815732" final="">
+    <teams/>
+    <time>2014-02-15T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815734" event_title="Alpine Skiing - Giant Slalom Women: Overall" id="p815734" final="">
+    <teams/>
+    <time>2014-02-18T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815736" event_title="Alpine Skiing - Slalom Women: Overall" id="p815736" final="">
+    <teams/>
+    <time>2014-02-21T12:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="11500815729" event_title="Alpine Skiing - Super Combined Women: Overall" id="p815729" final="">
+    <teams/>
+    <time>2014-02-10T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Unknown - Unknown" id="m398376" final="">
+    <teams/>
+    <time>2014-02-19T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Unknown - Unknown" id="m398377" final="">
+    <teams/>
+    <time>2014-02-19T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Unknown - Unknown" id="m398378" final="">
+    <teams/>
+    <time>2014-02-21T08:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Unknown - Unknown" id="m398379" final="">
+    <teams/>
+    <time>2014-02-21T13:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Russia - Great Britain" id="m398380" final="">
+    <teams>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Switzerland - Sweden" id="m398381" final="">
+    <teams>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Denmark - China" id="m398382" final="">
+    <teams>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Germany - Canada" id="m398383" final="">
+    <teams>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: United States - Norway" id="m398384" final="">
+    <teams>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Denmark - Russia" id="m398385" final="">
+    <teams>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Canada - Switzerland" id="m398386" final="">
+    <teams>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Sweden - Great Britain" id="m398387" final="">
+    <teams>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Canada - Sweden" id="m398388" final="">
+    <teams>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: United States - China" id="m398389" final="">
+    <teams>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Great Britain - Germany" id="m398390" final="">
+    <teams>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Norway - Russia" id="m398391" final="">
+    <teams>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Denmark - United States" id="m398392" final="">
+    <teams>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Norway - Germany" id="m398393" final="">
+    <teams>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: China - Switzerland" id="m398395" final="">
+    <teams>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Germany - China" id="m398396" final="">
+    <teams>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Switzerland - Great Britain" id="m398397" final="">
+    <teams>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Russia - Canada" id="m398398" final="">
+    <teams>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Denmark - Sweden" id="m398399" final="">
+    <teams>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Switzerland - Russia" id="m398400" final="">
+    <teams>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Canada - Denmark" id="m398401" final="">
+    <teams>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Norway - Sweden" id="m398402" final="">
+    <teams>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Great Britain - United States" id="m398403" final="">
+    <teams>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Sweden - China" id="m398405" final="">
+    <teams>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: United States - Germany" id="m398406" final="">
+    <teams>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Canada - Norway" id="m398407" final="">
+    <teams>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Great Britain - Denmark" id="m398408" final="">
+    <teams>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Russia - United States" id="m398409" final="">
+    <teams>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: China - Norway" id="m398410" final="">
+    <teams>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Switzerland - Germany" id="m398411" final="">
+    <teams>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Sweden - Germany" id="m398412" final="">
+    <teams>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Denmark - Switzerland" id="m398413" final="">
+    <teams>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Canada - Great Britain" id="m398414" final="">
+    <teams>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Russia - China" id="m398415" final="">
+    <teams>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: United States - Canada" id="m398416" final="">
+    <teams>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Great Britain - Norway" id="m398417" final="">
+    <teams>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Sweden - Russia" id="m398418" final="">
+    <teams>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Norway - Switzerland" id="m398420" final="">
+    <teams>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: China - Canada" id="m398421" final="">
+    <teams>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>566</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Germany - Denmark" id="m398422" final="">
+    <teams>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: United States - Sweden" id="m398423" final="">
+    <teams>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>445</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: China - Great Britain" id="m398424" final="">
+    <teams>
+      <team>
+        <team_id>1156</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>573</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Germany - Russia" id="m398425" final="">
+    <teams>
+      <team>
+        <team_id>283</team_id>
+        <team_name>Germany</team_name>
+      </team>
+      <team>
+        <team_id>339</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Switzerland - United States" id="m398426" final="">
+    <teams>
+      <team>
+        <team_id>30</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>781</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Norway - Denmark" id="m398427" final="">
+    <teams>
+      <team>
+        <team_id>184</team_id>
+        <team_name>Norway</team_name>
+      </team>
+      <team>
+        <team_id>159</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Unknown - Unknown" id="m402830" final="">
+    <teams/>
+    <time>2014-02-18T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Unknown - Unknown" id="m402831" final="">
+    <teams/>
+    <time>2014-02-18T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068186" event_title="Curling Men: Unknown - Unknown" id="m402832" final="">
+    <teams/>
+    <time>2014-02-18T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Unknown - Unknown" id="m398428" final="">
+    <teams/>
+    <time>2014-02-19T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Unknown - Unknown" id="m398429" final="">
+    <teams/>
+    <time>2014-02-19T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Unknown - Unknown" id="m398430" final="">
+    <teams/>
+    <time>2014-02-20T08:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Unknown - Unknown" id="m398431" final="">
+    <teams/>
+    <time>2014-02-20T13:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: China - Canada" id="m398432" final="">
+    <teams>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Switzerland - United States" id="m398433" final="">
+    <teams>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Sweden - Great Britain" id="m398434" final="">
+    <teams>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Russia - Denmark" id="m398435" final="">
+    <teams>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Switzerland - Denmark" id="m398436" final="">
+    <teams>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Sweden - Canada" id="m398437" final="">
+    <teams>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Russia - United States" id="m398438" final="">
+    <teams>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Korea - Japan" id="m398439" final="">
+    <teams>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Great Britain - United States" id="m398440" final="">
+    <teams>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Korea - Switzerland" id="m398441" final="">
+    <teams>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Denmark - Japan" id="m398442" final="">
+    <teams>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: China - Russia" id="m398443" final="">
+    <teams>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Japan - Russia" id="m398444" final="">
+    <teams>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: United States - China" id="m398445" final="">
+    <teams>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Korea - Sweden" id="m398446" final="">
+    <teams>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Canada - Great Britain" id="m398447" final="">
+    <teams>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Canada - Denmark" id="m398449" final="">
+    <teams>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: China - Great Britain" id="m398450" final="">
+    <teams>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Switzerland - Sweden" id="m398451" final="">
+    <teams>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Sweden - Denmark" id="m398452" final="">
+    <teams>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Russia - Korea" id="m398453" final="">
+    <teams>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Switzerland - Canada" id="m398454" final="">
+    <teams>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Japan - United States" id="m398455" final="">
+    <teams>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Korea - China" id="m398456" final="">
+    <teams>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Great Britain - Japan" id="m398457" final="">
+    <teams>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: United States - Denmark" id="m398458" final="">
+    <teams>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Russia - Switzerland" id="m398459" final="">
+    <teams>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-14T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Canada - Japan" id="m398460" final="">
+    <teams>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: China - Sweden" id="m398461" final="">
+    <teams>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Great Britain - Korea" id="m398463" final="">
+    <teams>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: United States - Sweden" id="m398464" final="">
+    <teams>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Canada - Russia" id="m398465" final="">
+    <teams>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Great Britain - Switzerland" id="m398466" final="">
+    <teams>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Denmark - China" id="m398467" final="">
+    <teams>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-15T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Denmark - Korea" id="m398468" final="">
+    <teams>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Japan - Switzerland" id="m398469" final="">
+    <teams>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Sweden - Russia" id="m398470" final="">
+    <teams>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: United States - Canada" id="m398471" final="">
+    <teams>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Russia - Great Britain" id="m398472" final="">
+    <teams>
+      <team>
+        <team_id>369</team_id>
+        <team_name>Russia</team_name>
+      </team>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Korea - United States" id="m398473" final="">
+    <teams>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>811</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Japan - China" id="m398474" final="">
+    <teams>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: China - Switzerland" id="m398476" final="">
+    <teams>
+      <team>
+        <team_id>1157</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>52</team_id>
+        <team_name>Switzerland</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Denmark - Great Britain" id="m398477" final="">
+    <teams>
+      <team>
+        <team_id>197</team_id>
+        <team_name>Denmark</team_name>
+      </team>
+      <team>
+        <team_id>602</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Canada - Korea" id="m398478" final="">
+    <teams>
+      <team>
+        <team_id>594</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>921</team_id>
+        <team_name>Korea</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Sweden - Japan" id="m398479" final="">
+    <teams>
+      <team>
+        <team_id>386</team_id>
+        <team_name>Sweden</team_name>
+      </team>
+      <team>
+        <team_id>89</team_id>
+        <team_name>Japan</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Unknown - Unknown" id="m402833" final="">
+    <teams/>
+    <time>2014-02-18T05:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Unknown - Unknown" id="m402834" final="">
+    <teams/>
+    <time>2014-02-18T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21200068187" event_title="Curling Women: Unknown - Unknown" id="m402835" final="">
+    <teams/>
+    <time>2014-02-18T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21300822477" event_title="Bobsleigh - 2-Man Competition Men: Overall" id="p822477" final="">
+    <teams>
+      <team>
+        <team_id>61715</team_id>
+        <team_name>Australia 1</team_name>
+      </team>
+      <team>
+        <team_id>61716</team_id>
+        <team_name>Austria 1</team_name>
+      </team>
+      <team>
+        <team_id>61718</team_id>
+        <team_name>Canada 2</team_name>
+      </team>
+      <team>
+        <team_id>61719</team_id>
+        <team_name>Canada 3</team_name>
+      </team>
+      <team>
+        <team_id>61717</team_id>
+        <team_name>Canada 1</team_name>
+      </team>
+      <team>
+        <team_id>61720</team_id>
+        <team_name>Czech Republic 1</team_name>
+      </team>
+      <team>
+        <team_id>61721</team_id>
+        <team_name>France 1</team_name>
+      </team>
+      <team>
+        <team_id>61724</team_id>
+        <team_name>Germany 3</team_name>
+      </team>
+      <team>
+        <team_id>61722</team_id>
+        <team_name>Germany 1</team_name>
+      </team>
+      <team>
+        <team_id>61723</team_id>
+        <team_name>Germany 2</team_name>
+      </team>
+      <team>
+        <team_id>61725</team_id>
+        <team_name>Great Britain 1</team_name>
+      </team>
+      <team>
+        <team_id>61726</team_id>
+        <team_name>Italy 1</team_name>
+      </team>
+      <team>
+        <team_id>61727</team_id>
+        <team_name>Jamaica 1</team_name>
+      </team>
+      <team>
+        <team_id>61728</team_id>
+        <team_name>Japan 1</team_name>
+      </team>
+      <team>
+        <team_id>61730</team_id>
+        <team_name>Korea 2</team_name>
+      </team>
+      <team>
+        <team_id>61729</team_id>
+        <team_name>Korea 1</team_name>
+      </team>
+      <team>
+        <team_id>61731</team_id>
+        <team_name>Latvia 1</team_name>
+      </team>
+      <team>
+        <team_id>61732</team_id>
+        <team_name>Latvia 2</team_name>
+      </team>
+      <team>
+        <team_id>61733</team_id>
+        <team_name>Monaco 1</team_name>
+      </team>
+      <team>
+        <team_id>61734</team_id>
+        <team_name>Netherlands 1</team_name>
+      </team>
+      <team>
+        <team_id>61735</team_id>
+        <team_name>Poland 1</team_name>
+      </team>
+      <team>
+        <team_id>61736</team_id>
+        <team_name>Romania 1</team_name>
+      </team>
+      <team>
+        <team_id>61738</team_id>
+        <team_name>Russia 2</team_name>
+      </team>
+      <team>
+        <team_id>61737</team_id>
+        <team_name>Russia 1</team_name>
+      </team>
+      <team>
+        <team_id>61739</team_id>
+        <team_name>Serbia 1</team_name>
+      </team>
+      <team>
+        <team_id>61741</team_id>
+        <team_name>Switzerland 2</team_name>
+      </team>
+      <team>
+        <team_id>61740</team_id>
+        <team_name>Switzerland 1</team_name>
+      </team>
+      <team>
+        <team_id>61742</team_id>
+        <team_name>United States 1</team_name>
+      </team>
+      <team>
+        <team_id>61744</team_id>
+        <team_name>United States 3</team_name>
+      </team>
+      <team>
+        <team_id>61743</team_id>
+        <team_name>United States 2</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T16:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21300822479" event_title="Bobsleigh - 4-Man Competition Men: Overall" id="p822479" final="">
+    <teams>
+      <team>
+        <team_id>60298</team_id>
+        <team_name>Australia 1</team_name>
+      </team>
+      <team>
+        <team_id>60299</team_id>
+        <team_name>Austria 1</team_name>
+      </team>
+      <team>
+        <team_id>60300</team_id>
+        <team_name>Brazil 1</team_name>
+      </team>
+      <team>
+        <team_id>60301</team_id>
+        <team_name>Canada 1</team_name>
+      </team>
+      <team>
+        <team_id>60303</team_id>
+        <team_name>Canada 3</team_name>
+      </team>
+      <team>
+        <team_id>60302</team_id>
+        <team_name>Canada 2</team_name>
+      </team>
+      <team>
+        <team_id>60304</team_id>
+        <team_name>Czech Republic 1</team_name>
+      </team>
+      <team>
+        <team_id>60306</team_id>
+        <team_name>France 2</team_name>
+      </team>
+      <team>
+        <team_id>60305</team_id>
+        <team_name>France 1</team_name>
+      </team>
+      <team>
+        <team_id>60308</team_id>
+        <team_name>Germany 2</team_name>
+      </team>
+      <team>
+        <team_id>60309</team_id>
+        <team_name>Germany 3</team_name>
+      </team>
+      <team>
+        <team_id>60307</team_id>
+        <team_name>Germany 1</team_name>
+      </team>
+      <team>
+        <team_id>60311</team_id>
+        <team_name>Great Britain 2</team_name>
+      </team>
+      <team>
+        <team_id>60310</team_id>
+        <team_name>Great Britain 1</team_name>
+      </team>
+      <team>
+        <team_id>60312</team_id>
+        <team_name>Italy 1</team_name>
+      </team>
+      <team>
+        <team_id>60313</team_id>
+        <team_name>Japan 1</team_name>
+      </team>
+      <team>
+        <team_id>60314</team_id>
+        <team_name>Korea 1</team_name>
+      </team>
+      <team>
+        <team_id>60315</team_id>
+        <team_name>Korea 2</team_name>
+      </team>
+      <team>
+        <team_id>60317</team_id>
+        <team_name>Latvia 2</team_name>
+      </team>
+      <team>
+        <team_id>60316</team_id>
+        <team_name>Latvia 1</team_name>
+      </team>
+      <team>
+        <team_id>60318</team_id>
+        <team_name>Netherlands 1</team_name>
+      </team>
+      <team>
+        <team_id>60319</team_id>
+        <team_name>Poland 1</team_name>
+      </team>
+      <team>
+        <team_id>60320</team_id>
+        <team_name>Romania 1</team_name>
+      </team>
+      <team>
+        <team_id>60322</team_id>
+        <team_name>Russia 2</team_name>
+      </team>
+      <team>
+        <team_id>60323</team_id>
+        <team_name>Russia 3</team_name>
+      </team>
+      <team>
+        <team_id>60321</team_id>
+        <team_name>Russia 1</team_name>
+      </team>
+      <team>
+        <team_id>60324</team_id>
+        <team_name>Slovakia 1</team_name>
+      </team>
+      <team>
+        <team_id>60325</team_id>
+        <team_name>Switzerland 1</team_name>
+      </team>
+      <team>
+        <team_id>60326</team_id>
+        <team_name>United States 1</team_name>
+      </team>
+      <team>
+        <team_id>60327</team_id>
+        <team_name>United States 2</team_name>
+      </team>
+    </teams>
+    <time>2014-02-22T16:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21300822478" event_title="Bobsleigh - 2-Man Competition Women: Overall" id="p822478" final="">
+    <teams>
+      <team>
+        <team_id>37074</team_id>
+        <team_name>Экипаж Катлин Мартини</team_name>
+      </team>
+      <team>
+        <team_id>37072</team_id>
+        <team_name>Экипаж Сандры Кириасис</team_name>
+      </team>
+      <team>
+        <team_id>37074</team_id>
+        <team_name>Экипаж Катлин Мартини</team_name>
+      </team>
+      <team>
+        <team_id>37073</team_id>
+        <team_name>Экипаж Эланы Мейерс</team_name>
+      </team>
+      <team>
+        <team_id>37073</team_id>
+        <team_name>Экипаж Эланы Мейерс</team_name>
+      </team>
+      <team>
+        <team_id>37076</team_id>
+        <team_name>Экипаж Эсме Кампхейс</team_name>
+      </team>
+      <team>
+        <team_id>37071</team_id>
+        <team_name>Экипаж Кейли Хамфрис</team_name>
+      </team>
+      <team>
+        <team_id>37071</team_id>
+        <team_name>Экипаж Кейли Хамфрис</team_name>
+      </team>
+      <team>
+        <team_id>37072</team_id>
+        <team_name>Экипаж Сандры Кириасис</team_name>
+      </team>
+      <team>
+        <team_id>37076</team_id>
+        <team_name>Экипаж Эсме Кампхейс</team_name>
+      </team>
+      <team>
+        <team_id>60278</team_id>
+        <team_name>Australia 1</team_name>
+      </team>
+      <team>
+        <team_id>60279</team_id>
+        <team_name>Austria 1</team_name>
+      </team>
+      <team>
+        <team_id>60280</team_id>
+        <team_name>Belgium 1</team_name>
+      </team>
+      <team>
+        <team_id>60281</team_id>
+        <team_name>Brazil 1</team_name>
+      </team>
+      <team>
+        <team_id>60282</team_id>
+        <team_name>Canada 1</team_name>
+      </team>
+      <team>
+        <team_id>60283</team_id>
+        <team_name>Canada 2</team_name>
+      </team>
+      <team>
+        <team_id>60285</team_id>
+        <team_name>Germany 2</team_name>
+      </team>
+      <team>
+        <team_id>60286</team_id>
+        <team_name>Germany 3</team_name>
+      </team>
+      <team>
+        <team_id>60284</team_id>
+        <team_name>Germany 1</team_name>
+      </team>
+      <team>
+        <team_id>60287</team_id>
+        <team_name>Great Britain 1</team_name>
+      </team>
+      <team>
+        <team_id>60288</team_id>
+        <team_name>Korea 1</team_name>
+      </team>
+      <team>
+        <team_id>60289</team_id>
+        <team_name>Netherlands 1</team_name>
+      </team>
+      <team>
+        <team_id>60290</team_id>
+        <team_name>Romania 1</team_name>
+      </team>
+      <team>
+        <team_id>60292</team_id>
+        <team_name>Russia 2</team_name>
+      </team>
+      <team>
+        <team_id>61794</team_id>
+        <team_name>Russia 1</team_name>
+      </team>
+      <team>
+        <team_id>60294</team_id>
+        <team_name>Switzerland 2</team_name>
+      </team>
+      <team>
+        <team_id>60293</team_id>
+        <team_name>Switzerland 1</team_name>
+      </team>
+      <team>
+        <team_id>60296</team_id>
+        <team_name>United States 2</team_name>
+      </team>
+      <team>
+        <team_id>60297</team_id>
+        <team_name>United States 3</team_name>
+      </team>
+      <team>
+        <team_id>60295</team_id>
+        <team_name>United States 1</team_name>
+      </team>
+    </teams>
+    <time>2014-02-18T15:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21400821796" event_title="Luge - Single Men: Overall" id="p821796" final="">
+    <teams/>
+    <time>2014-02-08T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21400821797" event_title="Luge - Single Women: Overall" id="p821797" final="">
+    <teams/>
+    <time>2014-02-10T14:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21400821798" event_title="Luge - Double Open: Overall" id="p821798" final="">
+    <teams>
+      <team>
+        <team_id>60274</team_id>
+        <team_name>Экипаж Оболончика и Захаркива</team_name>
+      </team>
+      <team>
+        <team_id>60258</team_id>
+        <team_name>Fischler/Penz</team_name>
+      </team>
+      <team>
+        <team_id>60257</team_id>
+        <team_name>A. Linger/W. Linger</team_name>
+      </team>
+      <team>
+        <team_id>60259</team_id>
+        <team_name>Snith/Walker</team_name>
+      </team>
+      <team>
+        <team_id>60260</team_id>
+        <team_name>A. Broz/L. Broz</team_name>
+      </team>
+      <team>
+        <team_id>60261</team_id>
+        <team_name>Arlt/Wendl</team_name>
+      </team>
+      <team>
+        <team_id>60262</team_id>
+        <team_name>Benecken/Eggert</team_name>
+      </team>
+      <team>
+        <team_id>60264</team_id>
+        <team_name>Rieder/Rastner</team_name>
+      </team>
+      <team>
+        <team_id>60263</team_id>
+        <team_name>P. Gruber/Oberstolz</team_name>
+      </team>
+      <team>
+        <team_id>60265</team_id>
+        <team_name>Cho J M/Park J Y</team_name>
+      </team>
+      <team>
+        <team_id>60267</team_id>
+        <team_name>Gudramovics/P. Kalnins</team_name>
+      </team>
+      <team>
+        <team_id>60266</team_id>
+        <team_name>A. Sics/J. Sics</team_name>
+      </team>
+      <team>
+        <team_id>60268</team_id>
+        <team_name>Mikrut/P. Poreba</team_name>
+      </team>
+      <team>
+        <team_id>60269</team_id>
+        <team_name>Sovaiala/Teodorescu</team_name>
+      </team>
+      <team>
+        <team_id>61745</team_id>
+        <team_name>Antonov/Denisyev</team_name>
+      </team>
+      <team>
+        <team_id>61746</team_id>
+        <team_name>Yuzhakov/Makhnutin</team_name>
+      </team>
+      <team>
+        <team_id>60272</team_id>
+        <team_name>Petrulak/Zemanik</team_name>
+      </team>
+      <team>
+        <team_id>60273</team_id>
+        <team_name>Solcansky/Stuchlak</team_name>
+      </team>
+      <team>
+        <team_id>61747</team_id>
+        <team_name>Obolonchyk/Zakharkiv</team_name>
+      </team>
+      <team>
+        <team_id>60276</team_id>
+        <team_name>Niccum/Terdiman</team_name>
+      </team>
+      <team>
+        <team_id>60275</team_id>
+        <team_name>Griffall/M. Mortensen</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T14:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21400821799" event_title="Luge - Team - Relay Mixed: Overall" id="p821799" final="">
+    <teams>
+      <team>
+        <team_id>61746</team_id>
+        <team_name>Yuzhakov/Makhnutin</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T16:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21500821812" event_title="Ski Jumping - Individual - Normal Hill Men: Overall" id="p821812" final="">
+    <teams/>
+    <time>2014-02-08T16:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21500821809" event_title="Ski Jumping - Individual - Large Hill Men: Overall" id="p821809" final="">
+    <teams/>
+    <time>2014-02-14T17:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21500821801" event_title="Ski Jumping - Team - Large Hill Men: Overall" id="p821801" final="">
+    <teams/>
+    <time>2014-02-17T17:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21500821814" event_title="Ski Jumping - Individual - Normal Hill Women: Overall" id="p821814" final="">
+    <teams/>
+    <time>2014-02-11T17:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21600814919" event_title="Nordic Combined - Gundersen Normal Hill / 10km Men: Overall" id="p814919" final="">
+    <teams/>
+    <time>2014-02-12T09:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21600814920" event_title="Nordic Combined - Gundersen Large Hill / 10km Men: Overall" id="p814920" final="">
+    <teams/>
+    <time>2014-02-18T09:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21600814921" event_title="Nordic Combined - Team Large Hill / 4 x 5km Men: Overall" id="p814921" final="">
+    <teams/>
+    <time>2014-02-20T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821769" event_title="Figure Skating - Singles Men: Overall" id="p821769" final="">
+    <teams/>
+    <time>2014-02-14T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821769" event_title="Figure Skating - Singles Men: Short Program" id="p886100" final="">
+    <teams/>
+    <time>2014-02-13T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821769" event_title="Figure Skating - Singles Men: Free Program" id="p886101" final="">
+    <teams/>
+    <time>2014-02-14T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821770" event_title="Figure Skating - Singles Women: Overall" id="p821770" final="">
+    <teams/>
+    <time>2014-02-20T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821770" event_title="Figure Skating - Singles Women: Short Program" id="p886102" final="">
+    <teams/>
+    <time>2014-02-19T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821770" event_title="Figure Skating - Singles Women: Free Program" id="p886103" final="">
+    <teams/>
+    <time>2014-02-20T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821771" event_title="Figure Skating - Pairs Mixed: Overall" id="p821771" final="">
+    <teams>
+      <team>
+        <team_id>60222</team_id>
+        <team_name>Пара Лаврентьева и Рудык</team_name>
+      </team>
+      <team>
+        <team_id>60205</team_id>
+        <team_name>Kiefer/Ziegler</team_name>
+      </team>
+      <team>
+        <team_id>60207</team_id>
+        <team_name>Lawrence/Swiegers</team_name>
+      </team>
+      <team>
+        <team_id>60208</team_id>
+        <team_name>Moore-Towers/Moscovitch</team_name>
+      </team>
+      <team>
+        <team_id>60206</team_id>
+        <team_name>Duhamel/Radford</team_name>
+      </team>
+      <team>
+        <team_id>60209</team_id>
+        <team_name>Pang Q/Tong J</team_name>
+      </team>
+      <team>
+        <team_id>60210</team_id>
+        <team_name>Peng C/Zhang H</team_name>
+      </team>
+      <team>
+        <team_id>60211</team_id>
+        <team_name>Cipres/James</team_name>
+      </team>
+      <team>
+        <team_id>60212</team_id>
+        <team_name>D. Wende/M. Wende</team_name>
+      </team>
+      <team>
+        <team_id>60213</team_id>
+        <team_name>Savchenko/Szolkowy</team_name>
+      </team>
+      <team>
+        <team_id>60214</team_id>
+        <team_name>Kemp/King</team_name>
+      </team>
+      <team>
+        <team_id>60215</team_id>
+        <team_name>Krasnopolski/Davidovich</team_name>
+      </team>
+      <team>
+        <team_id>60216</team_id>
+        <team_name>Berton/Hotarek</team_name>
+      </team>
+      <team>
+        <team_id>60217</team_id>
+        <team_name>Della Monica/Guarise</team_name>
+      </team>
+      <team>
+        <team_id>60218</team_id>
+        <team_name>Kihara/Takahashi</team_name>
+      </team>
+      <team>
+        <team_id>60219</team_id>
+        <team_name>Bazarova/Larionov</team_name>
+      </team>
+      <team>
+        <team_id>60221</team_id>
+        <team_name>Volosozhar/Trankov</team_name>
+      </team>
+      <team>
+        <team_id>60220</team_id>
+        <team_name>Stolbova/Klimov</team_name>
+      </team>
+      <team>
+        <team_id>60223</team_id>
+        <team_name>Bartholomay/Zhang</team_name>
+      </team>
+      <team>
+        <team_id>60224</team_id>
+        <team_name>Castelli/Shnapir</team_name>
+      </team>
+      <team>
+        <team_id>61792</team_id>
+        <team_name>Lavrentieva/Rudyk</team_name>
+      </team>
+    </teams>
+    <time>2014-02-12T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821771" event_title="Figure Skating - Pairs Mixed: Short Program" id="p886104" final="">
+    <teams>
+      <team>
+        <team_id>60222</team_id>
+        <team_name>Пара Лаврентьева и Рудык</team_name>
+      </team>
+      <team>
+        <team_id>60221</team_id>
+        <team_name>Volosozhar/Trankov</team_name>
+      </team>
+      <team>
+        <team_id>60220</team_id>
+        <team_name>Stolbova/Klimov</team_name>
+      </team>
+      <team>
+        <team_id>60219</team_id>
+        <team_name>Bazarova/Larionov</team_name>
+      </team>
+    </teams>
+    <time>2014-02-11T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821771" event_title="Figure Skating - Pairs Mixed: Free Program" id="p886105" final="">
+    <teams/>
+    <time>2014-02-12T15:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821772" event_title="Figure Skating - Ice Dance Mixed: Overall" id="p821772" final="">
+    <teams>
+      <team>
+        <team_id>60245</team_id>
+        <team_name>Пара Хикин-Кенеди и Дунь</team_name>
+      </team>
+      <team>
+        <team_id>60225</team_id>
+        <team_name>Merriman/O'Brien</team_name>
+      </team>
+      <team>
+        <team_id>60226</team_id>
+        <team_name>Zlobina/Sitnikov</team_name>
+      </team>
+      <team>
+        <team_id>60228</team_id>
+        <team_name>Moir/Virtue</team_name>
+      </team>
+      <team>
+        <team_id>60227</team_id>
+        <team_name>Islam/Paul</team_name>
+      </team>
+      <team>
+        <team_id>60229</team_id>
+        <team_name>Weaver/Poje</team_name>
+      </team>
+      <team>
+        <team_id>60230</team_id>
+        <team_name>Huang X T/Zheng X</team_name>
+      </team>
+      <team>
+        <team_id>60231</team_id>
+        <team_name>Bourzat/Pechalat</team_name>
+      </team>
+      <team>
+        <team_id>60232</team_id>
+        <team_name>Carron/Jones</team_name>
+      </team>
+      <team>
+        <team_id>60234</team_id>
+        <team_name>Gazsi/Zhiganshina</team_name>
+      </team>
+      <team>
+        <team_id>60233</team_id>
+        <team_name>Caruso/Kolbe</team_name>
+      </team>
+      <team>
+        <team_id>60235</team_id>
+        <team_name>Buckland/Coomes</team_name>
+      </team>
+      <team>
+        <team_id>60237</team_id>
+        <team_name>Guignard/M. Fabbri</team_name>
+      </team>
+      <team>
+        <team_id>60236</team_id>
+        <team_name>Cappellini/Lanotte</team_name>
+      </team>
+      <team>
+        <team_id>60238</team_id>
+        <team_name>Ca. Reed/Ch. Reed</team_name>
+      </team>
+      <team>
+        <team_id>60239</team_id>
+        <team_name>Stagniunas/Tobias</team_name>
+      </team>
+      <team>
+        <team_id>60240</team_id>
+        <team_name>Bobrova/Soloviev</team_name>
+      </team>
+      <team>
+        <team_id>60242</team_id>
+        <team_name>Sinitsina/Zhiganshin</team_name>
+      </team>
+      <team>
+        <team_id>60241</team_id>
+        <team_name>Ilinykh/Katsalapov</team_name>
+      </team>
+      <team>
+        <team_id>60243</team_id>
+        <team_name>Hurtado/Diaz</team_name>
+      </team>
+      <team>
+        <team_id>60244</team_id>
+        <team_name>Agafonova/Ucar</team_name>
+      </team>
+      <team>
+        <team_id>61793</team_id>
+        <team_name>Dun/Heekin-Canedy</team_name>
+      </team>
+      <team>
+        <team_id>60246</team_id>
+        <team_name>Chock/Bates</team_name>
+      </team>
+      <team>
+        <team_id>60248</team_id>
+        <team_name>M. Shibutani/A. Shibutani</team_name>
+      </team>
+      <team>
+        <team_id>60247</team_id>
+        <team_name>Davis/White</team_name>
+      </team>
+    </teams>
+    <time>2014-02-17T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821772" event_title="Figure Skating - Ice Dance Mixed: Free Dance" id="p886106" final="">
+    <teams/>
+    <time>2014-02-17T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821772" event_title="Figure Skating - Ice Dance Mixed: Short Dance" id="p886107" final="">
+    <teams>
+      <team>
+        <team_id>60245</team_id>
+        <team_name>Пара Хикин-Кенеди и Дунь</team_name>
+      </team>
+      <team>
+        <team_id>60242</team_id>
+        <team_name>Sinitsina/Zhiganshin</team_name>
+      </team>
+      <team>
+        <team_id>60241</team_id>
+        <team_name>Ilinykh/Katsalapov</team_name>
+      </team>
+      <team>
+        <team_id>60240</team_id>
+        <team_name>Bobrova/Soloviev</team_name>
+      </team>
+    </teams>
+    <time>2014-02-16T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Overall" id="p821773" final="">
+    <teams>
+      <team>
+        <team_id>37070</team_id>
+        <team_name>Bobrova/Soloviev</team_name>
+      </team>
+      <team>
+        <team_id>60328</team_id>
+        <team_name>Volosozhar/Trankov</team_name>
+      </team>
+      <team>
+        <team_id>60245</team_id>
+        <team_name>Пара Хикин-Кенеди и Дунь</team_name>
+      </team>
+      <team>
+        <team_id>60222</team_id>
+        <team_name>Пара Лаврентьева и Рудык</team_name>
+      </team>
+      <team>
+        <team_id>60249</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60250</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>60251</team_id>
+        <team_name>Germany</team_name>
+      </team>
+      <team>
+        <team_id>60252</team_id>
+        <team_name>Great Britain</team_name>
+      </team>
+      <team>
+        <team_id>60253</team_id>
+        <team_name>Italy</team_name>
+      </team>
+      <team>
+        <team_id>60254</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>60256</team_id>
+        <team_name>United States</team_name>
+      </team>
+      <team>
+        <team_id>62464</team_id>
+        <team_name>Ukraine</team_name>
+      </team>
+      <team>
+        <team_id>62465</team_id>
+        <team_name>France</team_name>
+      </team>
+      <team>
+        <team_id>60255</team_id>
+        <team_name>Russia</team_name>
+      </team>
+    </teams>
+    <time>2014-02-06T15:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Квалификация" id="p906387" final="">
+    <teams>
+      <team>
+        <team_id>37070</team_id>
+        <team_name>Bobrova/Soloviev</team_name>
+      </team>
+      <team>
+        <team_id>60328</team_id>
+        <team_name>Volosozhar/Trankov</team_name>
+      </team>
+      <team>
+        <team_id>60245</team_id>
+        <team_name>Пара Хикин-Кенеди и Дунь</team_name>
+      </team>
+      <team>
+        <team_id>60222</team_id>
+        <team_name>Пара Лаврентьева и Рудык</team_name>
+      </team>
+    </teams>
+    <time>2014-02-06T15:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Final" id="p906388" final="">
+    <teams>
+      <team>
+        <team_id>37070</team_id>
+        <team_name>Bobrova/Soloviev</team_name>
+      </team>
+      <team>
+        <team_id>60328</team_id>
+        <team_name>Volosozhar/Trankov</team_name>
+      </team>
+      <team>
+        <team_id>60245</team_id>
+        <team_name>Пара Хикин-Кенеди и Дунь</team_name>
+      </team>
+      <team>
+        <team_id>60222</team_id>
+        <team_name>Пара Лаврентьева и Рудык</team_name>
+      </team>
+    </teams>
+    <time>2014-02-08T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Qualification, Women - Short Program" id="p906389" final="">
+    <teams/>
+    <time>2014-02-06T15:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Qualification, Ice Dance - Short Dance" id="p906390" final="">
+    <teams/>
+    <time>2014-02-06T15:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Финал, Men - Free Program" id="p906391" final="">
+    <teams/>
+    <time>2014-02-09T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Финал, Ice Dance - Free Dance" id="p906392" final="">
+    <teams/>
+    <time>2014-02-09T17:10:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Квалификация, Мужчины. Короткая программа" id="p906393" final="">
+    <teams/>
+    <time>2014-02-06T15:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Квалификация, Спортивные пары. Короткая программа" id="p906394" final="">
+    <teams/>
+    <time>2014-02-06T17:10:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Финал, Women - Free Program" id="p906395" final="">
+    <teams/>
+    <time>2014-02-09T16:05:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21700821773" event_title="Figure Skating - Team Mixed: Финал, Pairs - Free Program" id="p906396" final="">
+    <teams/>
+    <time>2014-02-08T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814900" event_title="Biathlon - 20km Individual Men: Overall" id="p814900" final="">
+    <teams/>
+    <time>2014-02-13T14:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814896" event_title="Biathlon - 10km Sprint Men: Overall" id="p814896" final="">
+    <teams/>
+    <time>2014-02-08T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814898" event_title="Biathlon - 12.5km Pursuit Men: Overall" id="p814898" final="">
+    <teams/>
+    <time>2014-02-10T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814902" event_title="Biathlon - 15km Mass Start Men: Overall" id="p814902" final="">
+    <teams/>
+    <time>2014-02-16T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814906" event_title="Biathlon - 4 x 7.5km Relay Men: Overall" id="p814906" final="">
+    <teams/>
+    <time>2014-02-22T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814901" event_title="Biathlon - 15km Individual Women: Overall" id="p814901" final="">
+    <teams/>
+    <time>2014-02-14T14:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814897" event_title="Biathlon - 7.5km Sprint Women: Overall" id="p814897" final="">
+    <teams/>
+    <time>2014-02-09T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814899" event_title="Biathlon - 10km Pursuit Women: Overall" id="p814899" final="">
+    <teams/>
+    <time>2014-02-11T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814903" event_title="Biathlon - 12.5km Mass Start Women: Overall" id="p814903" final="">
+    <teams/>
+    <time>2014-02-17T15:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814905" event_title="Biathlon - 4 x 6km Relay Women: Overall" id="p814905" final="">
+    <teams/>
+    <time>2014-02-21T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="21800814904" event_title="Biathlon - 2 x 6 + 2 x 7.5km Relay Mixed: Overall" id="p814904" final="">
+    <teams/>
+    <time>2014-02-19T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814910" event_title="Cross-Country Skiing - Sprint Freestyle Men: Overall" id="p814910" final="">
+    <teams/>
+    <time>2014-02-11T10:25:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814908" event_title="Cross-Country Skiing - 15km Classic Style Men: Overall" id="p814908" final="">
+    <teams/>
+    <time>2014-02-14T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814918" event_title="Cross-Country Skiing - 50km Freestyle Men: Overall" id="p814918" final="">
+    <teams/>
+    <time>2014-02-23T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814912" event_title="Cross-Country Skiing - 2 x 15km Skiathlon Men: Overall" id="p814912" final="">
+    <teams/>
+    <time>2014-02-09T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814916" event_title="Cross-Country Skiing - 4 x 10km Relay Men: Overall" id="p814916" final="">
+    <teams/>
+    <time>2014-02-16T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814914" event_title="Cross-Country Skiing - Team Sprint Classic Style Men: Overall" id="p814914" final="">
+    <teams/>
+    <time>2014-02-19T10:06:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814909" event_title="Cross-Country Skiing - Sprint Freestyle Women: Overall" id="p814909" final="">
+    <teams/>
+    <time>2014-02-11T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814907" event_title="Cross-Country Skiing - 10km Classic Style Women: Overall" id="p814907" final="">
+    <teams/>
+    <time>2014-02-13T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814917" event_title="Cross-Country Skiing - 30km Freestyle Women: Overall" id="p814917" final="">
+    <teams/>
+    <time>2014-02-22T09:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814911" event_title="Cross-Country Skiing - 2 x 7.5km Skiathlon Women: Overall" id="p814911" final="">
+    <teams/>
+    <time>2014-02-08T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814915" event_title="Cross-Country Skiing - 4 x 5km Relay Women: Overall" id="p814915" final="">
+    <teams/>
+    <time>2014-02-15T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22000814913" event_title="Cross-Country Skiing - Team Sprint Classic Style Women: Overall" id="p814913" final="">
+    <teams/>
+    <time>2014-02-19T09:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815536" event_title="Freestyle Skiing - Aerials Men: Overall" id="p815536" final="">
+    <teams/>
+    <time>2014-02-17T13:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815535" event_title="Freestyle Skiing - Moguls Men: Overall" id="p815535" final="">
+    <teams/>
+    <time>2014-02-10T14:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815537" event_title="Freestyle Skiing - Ski Cross Men: Overall" id="p815537" final="">
+    <teams/>
+    <time>2014-02-20T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815538" event_title="Freestyle Skiing - Halfpipe Men: Overall" id="p815538" final="">
+    <teams/>
+    <time>2014-02-18T13:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815539" event_title="Freestyle Skiing - Slopestyle Men: Overall" id="p815539" final="">
+    <teams/>
+    <time>2014-02-13T06:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815541" event_title="Freestyle Skiing - Aerials Women: Overall" id="p815541" final="">
+    <teams/>
+    <time>2014-02-14T13:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815540" event_title="Freestyle Skiing - Moguls Women: Overall" id="p815540" final="">
+    <teams/>
+    <time>2014-02-06T14:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815542" event_title="Freestyle Skiing - Ski Cross Women: Overall" id="p815542" final="">
+    <teams/>
+    <time>2014-02-21T07:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815543" event_title="Freestyle Skiing - Halfpipe Women: Overall" id="p815543" final="">
+    <teams/>
+    <time>2014-02-20T14:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22100815544" event_title="Freestyle Skiing - Slopestyle Women: Overall" id="p815544" final="">
+    <teams/>
+    <time>2014-02-11T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817415" event_title="Snowboard - Parallel Slalom Men: Overall" id="p817415" final="">
+    <teams/>
+    <time>2014-02-22T05:42:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817413" event_title="Snowboard - Parallel Giant Slalom Men: Overall" id="p817413" final="">
+    <teams/>
+    <time>2014-02-19T05:42:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817408" event_title="Snowboard - Halfpipe Men: Overall" id="p817408" final="">
+    <teams/>
+    <time>2014-02-11T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817411" event_title="Snowboard - Snowboard Cross Men: Overall" id="p817411" final="">
+    <teams/>
+    <time>2014-02-17T07:00:00+00:00</time>
+  </event>
+  <event status="in_progress" competition_id="22200817406" event_title="Snowboard - Slopestyle Men: Overall" id="p817406" final="">
+    <teams/>
+    <time>2014-02-06T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817414" event_title="Snowboard - Parallel Slalom Women: Overall" id="p817414" final="">
+    <teams/>
+    <time>2014-02-22T05:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817412" event_title="Snowboard - Parallel Giant Slalom Women: Overall" id="p817412" final="">
+    <teams/>
+    <time>2014-02-19T05:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817409" event_title="Snowboard - Halfpipe Women: Overall" id="p817409" final="">
+    <teams/>
+    <time>2014-02-12T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="22200817410" event_title="Snowboard - Snowboard Cross Women: Overall" id="p817410" final="">
+    <teams/>
+    <time>2014-02-16T07:00:00+00:00</time>
+  </event>
+  <event status="in_progress" competition_id="22200817407" event_title="Snowboard - Slopestyle Women: Overall" id="p817407" final="">
+    <teams/>
+    <time>2014-02-06T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816262" event_title="Short Track - 500m Men: Overall" id="p816262" final="">
+    <teams/>
+    <time>2014-02-18T10:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816263" event_title="Short Track - 1000m Men: Overall" id="p816263" final="">
+    <teams/>
+    <time>2014-02-13T10:25:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816264" event_title="Short Track - 1500m Men: Overall" id="p816264" final="">
+    <teams/>
+    <time>2014-02-10T09:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816265" event_title="Short Track - 5000m Relay Men: Overall" id="p816265" final="">
+    <teams>
+      <team>
+        <team_id>60167</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60168</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>60169</team_id>
+        <team_name>Italy</team_name>
+      </team>
+      <team>
+        <team_id>60170</team_id>
+        <team_name>Kazakhstan</team_name>
+      </team>
+      <team>
+        <team_id>60171</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>60172</team_id>
+        <team_name>Netherlands</team_name>
+      </team>
+      <team>
+        <team_id>60173</team_id>
+        <team_name>Сборная России</team_name>
+      </team>
+      <team>
+        <team_id>60174</team_id>
+        <team_name>United States</team_name>
+      </team>
+    </teams>
+    <time>2014-02-13T11:31:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816266" event_title="Short Track - 500m Women: Overall" id="p816266" final="">
+    <teams/>
+    <time>2014-02-10T10:27:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816267" event_title="Short Track - 1000m Women: Overall" id="p816267" final="">
+    <teams/>
+    <time>2014-02-18T09:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816268" event_title="Short Track - 1500m Women: Overall" id="p816268" final="">
+    <teams/>
+    <time>2014-02-15T10:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30200816269" event_title="Short Track - 3000m Relay Women: Overall" id="p816269" final="">
+    <teams>
+      <team>
+        <team_id>60175</team_id>
+        <team_name>Canada</team_name>
+      </team>
+      <team>
+        <team_id>60176</team_id>
+        <team_name>China</team_name>
+      </team>
+      <team>
+        <team_id>60177</team_id>
+        <team_name>Hungary</team_name>
+      </team>
+      <team>
+        <team_id>60178</team_id>
+        <team_name>Italy</team_name>
+      </team>
+      <team>
+        <team_id>60179</team_id>
+        <team_name>Japan</team_name>
+      </team>
+      <team>
+        <team_id>60180</team_id>
+        <team_name>Korea</team_name>
+      </team>
+      <team>
+        <team_id>60181</team_id>
+        <team_name>Netherlands</team_name>
+      </team>
+      <team>
+        <team_id>60182</team_id>
+        <team_name>Сборная России</team_name>
+      </team>
+    </teams>
+    <time>2014-02-10T11:35:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30700822494" event_title="Skeleton - Individual Men: Overall" id="p822494" final="">
+    <teams/>
+    <time>2014-02-14T12:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="30700822493" event_title="Skeleton - Individual Women: Overall" id="p822493" final="">
+    <teams/>
+    <time>2014-02-13T07:30:00+00:00</time>
+  </event>
+</events>
