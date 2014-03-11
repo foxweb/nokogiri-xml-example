@@ -3,10 +3,13 @@
 require 'nokogiri'
 require 'open-uri'
 
+XML_PATH = 'http://api.sport.yandex.ru/public/tournament_events.xml'
+# XML_PATH = './tournament_events.xml'
+# XML_PATH = './paralympic_tournament_events.xml'
 CSV_PATH = 'sochi_tournament_events.csv'
 events_array = []
 
-doc = Nokogiri::XML(open('http://api.sport.yandex.ru/public/tournament_events.xml'))
+doc = Nokogiri::XML(open(XML_PATH))
 doc.css('event').each do |event|
   events_array << {
     title: event['event_title'],

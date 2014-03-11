@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<events>
+  <event status="finished" competition_id="56400895404" event_title="PARA - Alpine Skiing - Downhill - Standing [2014] Men: Overall" id="p895404" final="">
+    <teams/>
+    <time>2014-03-08T07:10:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895405" event_title="PARA - Alpine Skiing - Downhill - Sitting [2014] Men: Overall" id="p895405" final="">
+    <teams/>
+    <time>2014-03-08T07:50:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895406" event_title="PARA - Alpine Skiing - Downhill - Visually Impaired [2014] Men: Overall" id="p895406" final="">
+    <teams/>
+    <time>2014-03-08T06:50:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895422" event_title="PARA - Alpine Skiing - Slalom - Standing [2014] Men: Overall" id="p895422" final="">
+    <teams/>
+    <time>2014-03-13T12:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895423" event_title="PARA - Alpine Skiing - Slalom - Sitting [2014] Men: Overall" id="p895423" final="">
+    <teams/>
+    <time>2014-03-13T12:55:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895424" event_title="PARA - Alpine Skiing - Slalom - Visually Impaired [2014] Men: Overall" id="p895424" final="">
+    <teams/>
+    <time>2014-03-13T12:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895416" event_title="PARA - Alpine Skiing - Giant Slalom - Standing [2014] Men: Overall" id="p895416" final="">
+    <teams/>
+    <time>2014-03-15T05:55:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895417" event_title="PARA - Alpine Skiing - Giant Slalom - Sitting [2014] Men: Overall" id="p895417" final="">
+    <teams/>
+    <time>2014-03-15T06:35:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895418" event_title="PARA - Alpine Skiing - Giant Slalom - Visually Impaired [2014] Men: Overall" id="p895418" final="">
+    <teams/>
+    <time>2014-03-15T05:30:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895410" event_title="PARA - Alpine Skiing - Super-G - Standing [2014] Men: Overall" id="p895410" final="">
+    <teams/>
+    <time>2014-03-09T06:20:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895411" event_title="PARA - Alpine Skiing - Super-G - Sitting [2014] Men: Overall" id="p895411" final="">
+    <teams/>
+    <time>2014-03-09T07:15:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895412" event_title="PARA - Alpine Skiing - Super-G - Visually Impaired [2014] Men: Overall" id="p895412" final="">
+    <teams/>
+    <time>2014-03-09T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895428" event_title="PARA - Alpine Skiing - Super Combined - Standing [2014] Men: Overall" id="p895428" final="">
+    <teams/>
+    <time>2014-03-11T07:20:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895429" event_title="PARA - Alpine Skiing - Super Combined - Sitting [2014] Men: Overall" id="p895429" final="">
+    <teams/>
+    <time>2014-03-11T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895430" event_title="PARA - Alpine Skiing - Super Combined - Visually Impaired [2014] Men: Overall" id="p895430" final="">
+    <teams/>
+    <time>2014-03-11T06:55:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895407" event_title="PARA - Alpine Skiing - Downhill - Standing [2014] Women: Overall" id="p895407" final="">
+    <teams/>
+    <time>2014-03-08T06:15:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895408" event_title="PARA - Alpine Skiing - Downhill - Sitting [2014] Women: Overall" id="p895408" final="">
+    <teams/>
+    <time>2014-03-08T06:35:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895409" event_title="PARA - Alpine Skiing - Downhill - Visually Impaired [2014] Women: Overall" id="p895409" final="">
+    <teams/>
+    <time>2014-03-08T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895425" event_title="PARA - Alpine Skiing - Slalom - Standing [2014] Women: Overall" id="p895425" final="">
+    <teams/>
+    <time>2014-03-14T12:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895426" event_title="PARA - Alpine Skiing - Slalom - Sitting [2014] Women: Overall" id="p895426" final="">
+    <teams/>
+    <time>2014-03-14T12:40:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895427" event_title="PARA - Alpine Skiing - Slalom - Visually Impaired [2014] Women: Overall" id="p895427" final="">
+    <teams/>
+    <time>2014-03-14T12:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895419" event_title="PARA - Alpine Skiing - Giant Slalom - Standing [2014] Women: Overall" id="p895419" final="">
+    <teams/>
+    <time>2014-03-16T05:55:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895420" event_title="PARA - Alpine Skiing - Giant Slalom - Sitting [2014] Women: Overall" id="p895420" final="">
+    <teams/>
+    <time>2014-03-16T06:35:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895421" event_title="PARA - Alpine Skiing - Giant Slalom - Visually Impaired [2014] Women: Overall" id="p895421" final="">
+    <teams/>
+    <time>2014-03-16T05:30:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895413" event_title="PARA - Alpine Skiing - Super-G - Standing [2014] Women: Overall" id="p895413" final="">
+    <teams/>
+    <time>2014-03-10T06:20:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895414" event_title="PARA - Alpine Skiing - Super-G - Sitting [2014] Women: Overall" id="p895414" final="">
+    <teams/>
+    <time>2014-03-10T06:55:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56400895415" event_title="PARA - Alpine Skiing - Super-G - Visually Impaired [2014] Women: Overall" id="p895415" final="">
+    <teams/>
+    <time>2014-03-10T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895431" event_title="PARA - Alpine Skiing - Super Combined - Standing [2014] Women: Overall" id="p895431" final="">
+    <teams/>
+    <time>2014-03-11T06:15:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895432" event_title="PARA - Alpine Skiing - Super Combined - Sitting [2014] Women: Overall" id="p895432" final="">
+    <teams/>
+    <time>2014-03-11T06:40:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56400895433" event_title="PARA - Alpine Skiing - Super Combined - Visually Impaired [2014] Women: Overall" id="p895433" final="">
+    <teams/>
+    <time>2014-03-11T06:00:00+00:00</time>
+  </event>
+  <event status="in_progress" competition_id="53900074774" event_title="Wheelchair Curling Mixed: Overall" id="p74774" final="">
+    <teams/>
+    <time>2014-03-07T23:00:00+00:00</time>
+  </event>
+  <event status="in_progress" competition_id="56500074773" event_title="PARA - Ice Sledge Hockey Mixed: Overall" id="p74773" final="">
+    <teams/>
+    <time>2014-03-07T23:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895466" event_title="PARA - Cross-Country Skiing - 1km Sprint Freestyle - Standing [2014] Men: Overall" id="p895466" final="">
+    <teams/>
+    <time>2014-03-12T06:37:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895468" event_title="PARA - Cross-Country Skiing - 1km Sprint - Sitting [2014] Men: Overall" id="p895468" final="">
+    <teams/>
+    <time>2014-03-12T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895470" event_title="PARA - Cross-Country Skiing - 1km Sprint Freestyle - Visually Impaired [2014] Men: Overall" id="p895470" final="">
+    <teams/>
+    <time>2014-03-12T07:16:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895459" event_title="PARA - Cross-Country Skiing - 10km Freestyle - Standing [2014] Men: Overall" id="p895459" final="">
+    <teams/>
+    <time>2014-03-16T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895461" event_title="PARA - Cross-Country Skiing - 10km - Sitting [2014] Men: Overall" id="p895461" final="">
+    <teams/>
+    <time>2014-03-16T08:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895463" event_title="PARA - Cross-Country Skiing - 10km Freestyle - Visually Impaired [2014] Men: Overall" id="p895463" final="">
+    <teams/>
+    <time>2014-03-16T06:20:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56600895453" event_title="PARA - Cross-Country Skiing - 15km - Sitting [2014] Men: Overall" id="p895453" final="">
+    <teams/>
+    <time>2014-03-09T06:00:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56600895455" event_title="PARA - Cross-Country Skiing - 20km Classic Style - Standing [2014] Men: Overall" id="p895455" final="">
+    <teams/>
+    <time>2014-03-10T06:00:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56600895457" event_title="PARA - Cross-Country Skiing - 20km Classic Style - Visually Impaired [2014] Men: Overall" id="p895457" final="">
+    <teams/>
+    <time>2014-03-10T07:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895467" event_title="PARA - Cross-Country Skiing - 1km Sprint Freestyle - Standing [2014] Women: Overall" id="p895467" final="">
+    <teams/>
+    <time>2014-03-12T06:57:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895469" event_title="PARA - Cross-Country Skiing - 1km Sprint - Sitting [2014] Women: Overall" id="p895469" final="">
+    <teams/>
+    <time>2014-03-12T06:20:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895471" event_title="PARA - Cross-Country Skiing - 1km Sprint Freestyle - Visually Impaired [2014] Women: Overall" id="p895471" final="">
+    <teams/>
+    <time>2014-03-12T07:28:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895458" event_title="PARA - Cross-Country Skiing - 5km Freestyle - Standing [2014] Women: Overall" id="p895458" final="">
+    <teams/>
+    <time>2014-03-16T07:23:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895460" event_title="PARA - Cross-Country Skiing - 5km - Sitting [2014] Women: Overall" id="p895460" final="">
+    <teams/>
+    <time>2014-03-16T08:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895462" event_title="PARA - Cross-Country Skiing - 5km Freestyle - Visually Impaired [2014] Women: Overall" id="p895462" final="">
+    <teams/>
+    <time>2014-03-16T07:40:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56600895452" event_title="PARA - Cross-Country Skiing - 12km - Sitting [2014] Women: Overall" id="p895452" final="">
+    <teams/>
+    <time>2014-03-09T06:00:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56600895454" event_title="PARA - Cross-Country Skiing - 15km Classic Style - Standing [2014] Women: Overall" id="p895454" final="">
+    <teams/>
+    <time>2014-03-10T08:55:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56600895456" event_title="PARA - Cross-Country Skiing - 15km Classic Style - Visually Impaired [2014] Women: Overall" id="p895456" final="">
+    <teams/>
+    <time>2014-03-10T09:20:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895464" event_title="PARA - Cross-Country Skiing - 4 x 2.5km Relay Open [2014] Open: Overall" id="p895464" final="">
+    <teams/>
+    <time>2014-03-15T08:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56600895465" event_title="PARA - Cross-Country Skiing - 4 x 2.5km Relay Mixed [2014] Mixed: Overall" id="p895465" final="">
+    <teams/>
+    <time>2014-03-15T06:00:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895434" event_title="PARA - Biathlon - 7.5km Individual - Sitting [2014] Men: Overall" id="p895434" final="">
+    <teams/>
+    <time>2014-03-08T06:25:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895435" event_title="PARA - Biathlon - 7.5km Individual - Standing [2014] Men: Overall" id="p895435" final="">
+    <teams/>
+    <time>2014-03-08T08:15:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895436" event_title="PARA - Biathlon - 7.5km Individual - Visually Impaired [2014] Men: Overall" id="p895436" final="">
+    <teams/>
+    <time>2014-03-08T09:44:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895440" event_title="PARA - Biathlon - 12.5km Individual - Sitting [2014] Men: Overall" id="p895440" final="">
+    <teams/>
+    <time>2014-03-11T06:48:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895441" event_title="PARA - Biathlon - 12.5km Individual - Standing [2014] Men: Overall" id="p895441" final="">
+    <teams/>
+    <time>2014-03-11T09:20:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895442" event_title="PARA - Biathlon - 12.5km Individual - Visually Impaired [2014] Men: Overall" id="p895442" final="">
+    <teams/>
+    <time>2014-03-11T10:45:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895446" event_title="PARA - Biathlon - 15km Individual - Sitting [2014] Men: Overall" id="p895446" final="">
+    <teams/>
+    <time>2014-03-14T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895447" event_title="PARA - Biathlon - 15km Individual - Standing [2014] Men: Overall" id="p895447" final="">
+    <teams/>
+    <time>2014-03-14T08:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895448" event_title="PARA - Biathlon - 15km Individual - Visually Impaired [2014] Men: Overall" id="p895448" final="">
+    <teams/>
+    <time>2014-03-14T11:20:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895437" event_title="PARA - Biathlon - 6km Individual - Sitting [2014] Women: Overall" id="p895437" final="">
+    <teams/>
+    <time>2014-03-08T06:00:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895438" event_title="PARA - Biathlon - 6km Individual - Standing [2014] Women: Overall" id="p895438" final="">
+    <teams/>
+    <time>2014-03-08T08:00:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895439" event_title="PARA - Biathlon - 6km Individual - Visually Impaired [2014] Women: Overall" id="p895439" final="">
+    <teams/>
+    <time>2014-03-08T09:05:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895443" event_title="PARA - Biathlon - 10km Individual - Sitting [2014] Women: Overall" id="p895443" final="">
+    <teams/>
+    <time>2014-03-11T06:00:00+00:00</time>
+  </event>
+  <event status="finished" competition_id="56700895444" event_title="PARA - Biathlon - 10km Individual - Standing [2014] Women: Overall" id="p895444" final="">
+    <teams/>
+    <time>2014-03-11T09:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895445" event_title="PARA - Biathlon - 10km Individual - Visually Impaired [2014] Women: Overall" id="p895445" final="">
+    <teams/>
+    <time>2014-03-11T10:30:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895449" event_title="PARA - Biathlon - 12.5km Individual - Sitting [2014] Women: Overall" id="p895449" final="">
+    <teams/>
+    <time>2014-03-14T06:20:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895450" event_title="PARA - Biathlon - 12.5km Individual - Standing [2014] Women: Overall" id="p895450" final="">
+    <teams/>
+    <time>2014-03-14T09:58:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="56700895451" event_title="PARA - Biathlon - 12.5km Individual - Visually Impaired [2014] Women: Overall" id="p895451" final="">
+    <teams/>
+    <time>2014-03-14T11:25:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="58100895472" event_title="PARA - Snowboard - Snowboardcross - Standing [2014] Men: Overall" id="p895472" final="">
+    <teams/>
+    <time>2014-03-14T06:00:00+00:00</time>
+  </event>
+  <event status="not_started" competition_id="58100895473" event_title="PARA - Snowboard - Snowboardcross - Standing [2014] Women: Overall" id="p895473" final="">
+    <teams/>
+    <time>2014-03-14T06:00:00+00:00</time>
+  </event>
+</events>
